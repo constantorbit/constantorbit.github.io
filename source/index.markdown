@@ -1,0 +1,10 @@
+---
+layout: page
+title: "index"
+date: 2013-05-30 20:25
+comments: true
+sharing: true
+footer: true
+---
+
+Modified the markdown.
