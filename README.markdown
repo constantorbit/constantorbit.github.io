@@ -1,2 +1,0 @@
-Octopress for constantorbit.com
-
