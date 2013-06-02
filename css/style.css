@@ -11,8 +11,11 @@
 
 
 
-@import url(http://fonts.googleapis.com/css-family=Open+Sans-300,400,700.css);
+/*@import url(http://fonts.googleapis.com/css-family=Open+Sans-300,400,700.css);*/
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400);
+/*@import url(http://fonts.googleapis.com/css?family=Lobster:400,600,800);*/
+/*@import url(http://fonts.googleapis.com/css?family=Lobster+Two:700italic);*/
+@import url(http://fonts.googleapis.com/css?family=Nixie+One:400);
 
 /* Global */
 
@@ -437,10 +440,13 @@ a:hover {
 }
 
 #section1 .intro h1 {
-	color: #F1F1F1;
-    font-size: 85px; font-size: 8.5rem;
-    font-weight: 500;
-    letter-spacing: -2px;
+	color: #404040;
+    /*font-family: "Lobster Two",sans-serif;*/
+    font-family: "Montserrat",sans-serif;
+    font-size: 160px; font-size: 8.5rem;
+    font-weight: 400;
+    /*font-style: italic;*/
+    letter-spacing: 40px;
     line-height: 85px;
     margin-left: -5px;
     margin-top:10px;
