@@ -488,6 +488,8 @@ a:hover {
 .service {
 	padding:12px;
 	text-align:left;
+    border-bottom: 5px;
+    min-height: 100% !important;
 }
 
 .service li {
@@ -509,7 +511,7 @@ a:hover {
 /* Section 3 */ 
 
 #section3 {
-	background-image:url(../img/project-bg.jpg);
+	background-image:url(../img/lubeck.jpg);
 	color: #F1F1F1;
 }
 
@@ -525,11 +527,14 @@ a:hover {
 }
 
 #section3 h6 {
-	color:#bdc3c7;
+	/*color:#bdc3c7;*/
 	font-size:16px;
 	padding-top:12px;
 }
 
+.project-description {
+    background-color: rgba(241,241,241,0.3);
+}
 
 #section3 .center {
 	text-align:center
