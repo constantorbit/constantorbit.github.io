@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0844184-cec8-47fa-a1b2-3c029441f634" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CNAME" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/intro-bg.jpg" afterPath="$PROJECT_DIR$/img/intro-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
     </list>
     <ignored path="octopress.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -11,7 +12,7 @@
     <file path="/index.markdown" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1369960990633" ignored="false" />
     <file path="/_config.yml" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1369961094088" ignored="false" />
     <file path="/index.htm" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1370325326741" ignored="false" />
-    <file path="/style.css" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1370325304337" ignored="false" />
+    <file path="/style.css" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1370327693099" ignored="false" />
     <file path="/a.dummy" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1369970172657" ignored="false" />
     <file path="$USER_HOME$/clients/cs/1-click/geocoder-proxy/geocoder-proxy.rb" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1370016025706" ignored="false" />
     <file path="$USER_HOME$/clients/zmx/zmx2/chef-repo/cookbooks/zmx_app/recipes/default.rb" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1370226251496" ignored="false" />
@@ -52,15 +53,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CNAME" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CNAME">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="18" selection-end="18" vertical-scroll-proportion="0.01992032">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="attributions.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/attributions.txt">
           <provider selected="true" editor-type-id="text-editor">
@@ -70,12 +62,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="510" column="1" selection-start="8669" selection-end="8683" vertical-scroll-proportion="0.0">
+            <state line="430" column="21" selection-start="7504" selection-end="7504" vertical-scroll-proportion="0.27622843">
               <folding>
-                <marker date="1370325304000" expanded="true" signature="8956:8973" placeholder="..." />
+                <marker date="1370327693000" expanded="true" signature="8978:8995" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -129,9 +121,9 @@
         <option value="$PROJECT_DIR$/source/index.markdown" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/attributions.txt" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.htm" />
         <option value="$PROJECT_DIR$/CNAME" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -382,7 +374,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="513" column="38" selection-start="8707" selection-end="8707" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1370325304000" expanded="true" signature="8956:8973" placeholder="..." />
+            <marker date="1370327693000" expanded="true" signature="8978:8995" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -424,7 +416,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="455" column="16" selection-start="7933" selection-end="7933" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1370325304000" expanded="true" signature="8956:8973" placeholder="..." />
+            <marker date="1370327693000" expanded="true" signature="8978:8995" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -474,12 +466,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="510" column="1" selection-start="8669" selection-end="8683" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1370325304000" expanded="true" signature="8956:8973" placeholder="..." />
-          </folding>
+        <state line="1" column="0" selection-start="18" selection-end="18" vertical-scroll-proportion="0.01992032">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -497,10 +487,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNAME">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="18" selection-end="18" vertical-scroll-proportion="0.01992032">
-          <folding />
+        <state line="430" column="21" selection-start="7504" selection-end="7504" vertical-scroll-proportion="0.27622843">
+          <folding>
+            <marker date="1370327693000" expanded="true" signature="8978:8995" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
