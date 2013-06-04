@@ -10,7 +10,7 @@
     <file path="/Rakefile" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1369959934923" ignored="false" />
     <file path="/index.markdown" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1369960990633" ignored="false" />
     <file path="/_config.yml" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1369961094088" ignored="false" />
-    <file path="/index.htm" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1370314426707" ignored="false" />
+    <file path="/index.htm" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1370318256278" ignored="false" />
     <file path="/style.css" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1370312296141" ignored="false" />
     <file path="/a.dummy" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1369970172657" ignored="false" />
     <file path="$USER_HOME$/clients/cs/1-click/geocoder-proxy/geocoder-proxy.rb" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1370016025706" ignored="false" />
@@ -38,7 +38,7 @@
       <file leaf-file-name="index.htm" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="0" selection-start="1784" selection-end="1784" vertical-scroll-proportion="0.6976744">
+            <state line="332" column="18" selection-start="13152" selection-end="13152" vertical-scroll-proportion="0.72640216">
               <folding />
             </state>
           </provider>
@@ -467,7 +467,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="0" selection-start="1784" selection-end="1784" vertical-scroll-proportion="0.6976744">
+        <state line="332" column="18" selection-start="13152" selection-end="13152" vertical-scroll-proportion="0.72640216">
           <folding />
         </state>
       </provider>
