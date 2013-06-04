@@ -466,6 +466,7 @@ a:hover {
 /* Section 2 */ 
 
 #section2{
+    padding: 150px 0 10px;
 }
 
 #section2 h6 {
@@ -505,6 +506,10 @@ a:hover {
 .service:hover {
 	background-color:#f5f7f8;
 	border-bottom:5px #c0392b solid; 
+}
+
+#last-what-i-do {
+    min-height: 20em !important;
 }
 
 
