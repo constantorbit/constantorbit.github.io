@@ -489,7 +489,7 @@ a:hover {
 	padding:12px;
 	text-align:left;
     border-bottom: 5px;
-    min-height: 100% !important;
+    min-height: 24em !important;
 }
 
 .service li {
@@ -533,7 +533,10 @@ a:hover {
 }
 
 .project-description {
-    background-color: rgba(241,241,241,0.3);
+    background-color: rgba(128,128,128,0.6);
+    padding: 2%;
+    margin-top: 2%;
+    min-height: 20em;
 }
 
 #section3 .center {
