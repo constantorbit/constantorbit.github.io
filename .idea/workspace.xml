@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c0844184-cec8-47fa-a1b2-3c029441f634" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.htm" afterPath="$PROJECT_DIR$/index.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="octopress.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -11,7 +10,7 @@
     <file path="/Rakefile" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1369959934923" ignored="false" />
     <file path="/index.markdown" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1369960990633" ignored="false" />
     <file path="/_config.yml" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1369961094088" ignored="false" />
-    <file path="/index.htm" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1370477144659" ignored="false" />
+    <file path="/index.htm" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1370480459344" ignored="false" />
     <file path="/style.css" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1370329556931" ignored="false" />
     <file path="/a.dummy" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1369970172657" ignored="false" />
     <file path="$USER_HOME$/clients/cs/1-click/geocoder-proxy/geocoder-proxy.rb" changelist="c0844184-cec8-47fa-a1b2-3c029441f634" time="1370016025706" ignored="false" />
@@ -44,7 +43,7 @@
       <file leaf-file-name="index.htm" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="26" selection-start="294" selection-end="294" vertical-scroll-proportion="0.14363885">
+            <state line="474" column="82" selection-start="19669" selection-end="19669" vertical-scroll-proportion="0.40492475">
               <folding>
                 <element signature="n#style#0;n#i#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#section#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#span#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#section#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -484,7 +483,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="26" selection-start="294" selection-end="294" vertical-scroll-proportion="0.14363885">
+        <state line="474" column="82" selection-start="19669" selection-end="19669" vertical-scroll-proportion="0.40492475">
           <folding>
             <element signature="n#style#0;n#i#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#section#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#span#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#section#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
